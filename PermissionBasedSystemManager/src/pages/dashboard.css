@@ -1,0 +1,5 @@
+.page-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+.user-info{font-size:14px;color:var(--muted)}
+.lists{display:flex;gap:18px}
+.lists > section{flex:1}
+.loading{color:var(--muted);padding:12px}
